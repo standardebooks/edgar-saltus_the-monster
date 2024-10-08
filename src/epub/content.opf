@@ -35,7 +35,7 @@
 		<dc:description id="description">Fleeing a terrible truth, a woman remarries, but her first husband comes back for answers.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Mere hours after their wedding, Gulian Verplank’s bride, Leilah, vanishes without a trace. Desperate to find her, Gulian embarks on a frantic journey across the globe—in the wrong direction. When he finally discovers her whereabouts, he’s shocked to learn she’s engaged to a Polish count. Determined to uncover the truth, Gulian rushes to Paris, only to find the marriage has already taken place.&lt;/p&gt;
-			&lt;p&gt;On the very day Leilah Ogsten marries Gulian, her world is shattered by a letter from her father. In shock, she abandons her new husband and flees to America to file for divorce. She remarries in Paris, to protect herself from the monstrous truth revealed in the letter. But then, Gulian reappears …&lt;/p&gt;
+			&lt;p&gt;On the very day Leilah Ogsten marries Gulian, her world is shattered by a letter from her father. In shock, she abandons her new husband and flees to Nevada to file for divorce. She remarries in Paris, to protect herself from the monstrous truth revealed in the letter. But then, Gulian reappears …&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Monster&lt;/i&gt; offers all the signature elements of an &lt;a href="https://standardebooks.org/ebooks/edgar-saltus"&gt;Edgar Saltus&lt;/a&gt; novel: high society, decadence, and a deeply pessimistic view of humanity, this time with a touch of eastern mysticism.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -51,8 +51,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Edgar_Saltus</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80036685</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Knut Magnus Enckell</dc:contributor>
-		<meta property="file-as" refines="#artist">Enckell, Knut Magnus</meta>
+		<dc:contributor id="artist">Magnus Enckell</dc:contributor>
+		<meta property="file-as" refines="#artist">Enckell, Magnus</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Knut Magnus Enckell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Magnus_Enckell</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n00089946</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
