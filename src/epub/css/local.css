@@ -23,6 +23,11 @@ footer{
 	font-variant: small-caps;
 }
 
+/* Telegram Styling */
+.telegram{
+	font-variant: all-small-caps;
+}
+
 /* Poetry Styling */
 [epub|type~="z3998:hymn"] p{
 	text-align: initial;
